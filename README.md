@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhanshu735591
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python full stack development.
+- 🌱 I’m currently learning Java full stack development.
 - 💞️ I’m looking to collaborate on full stack developer
 - 📫 you can reach me via Mail id (ersshekhar05@gmail.com)
 
